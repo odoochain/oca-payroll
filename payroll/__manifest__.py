@@ -14,6 +14,9 @@
         "hr_holidays",
         "mail",
     ],
+    'excludes': [
+        "hr_payroll",
+                 ],
     "data": [
         "security/hr_payroll_security.xml",
         "security/ir.model.access.csv",
